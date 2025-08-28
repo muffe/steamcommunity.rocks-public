@@ -16,7 +16,7 @@ This repository is dedicated **only** to collecting bug reports and feature requ
 ## 🚀 How to Contribute
 1. Go to the [Issues tab](../../issues).
 2. Click **New Issue**.
-3. Pick the appropriate template (Bug Report, Feature Request, or Feedback).
+3. Pick the appropriate template (Bug Report or Feature Request).
 4. Fill out the details and submit!
 
 That’s it – your issue will be reviewed and tracked here.
