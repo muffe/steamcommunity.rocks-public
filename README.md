@@ -1,4 +1,4 @@
-# steamcommunity.rocks – Public Feedback & Feature Requests
+# steamcommunity.rocks – Bugs & Feature Requests
 
 Welcome to the official **public issue tracker** for [steamcommunity.rocks](https://steamcommunity.rocks)!  
 This repository is dedicated **only** to collecting bug reports and feature requests from our users.  
